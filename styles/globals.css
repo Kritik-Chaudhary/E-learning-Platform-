@@ -1,0 +1,26 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html, body, #__next { height: 100%; }
+
+.current-lesson {
+  @apply bg-blue-50 border-l-4 border-blue-500 font-semibold;
+}
+.completed-lesson {
+  @apply bg-green-50 text-green-800;
+}
+.lesson-item {
+  @apply p-3 rounded-md flex items-center justify-between;
+}
+.play-btn {
+  @apply px-3 py-1 border rounded text-sm;
+}
+
+/* sidebar styles */
+.sidebar-backdrop { @apply fixed inset-0 bg-black bg-opacity-40 z-40; }
+.sidebar { @apply fixed top-0 left-0 bottom-0 w-64 bg-white shadow-lg z-50 p-4 overflow-auto; }
+
+.progress-track { @apply h-3 bg-gray-200 rounded-full overflow-hidden; }
+.progress-fill { @apply h-full rounded-full transition-all duration-500; }

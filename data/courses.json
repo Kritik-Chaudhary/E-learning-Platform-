@@ -1,0 +1,316 @@
+{
+  "courses": [
+    {
+      "id": "course-1",
+      "title": "React \u2014 Crash Course",
+      "description": "Learn the basics and patterns in React.",
+      "banner": "/sample/banner-default.jpg",
+      "lessons": [
+        {
+          "id": "course-1-l1",
+          "title": "Lesson 1: React Topic",
+          "videoId": "w7ejDZ8SWv8",
+          "duration": "12:00"
+        },
+        {
+          "id": "course-1-l2",
+          "title": "Lesson 2: React Topic",
+          "videoId": "Ke90Tje7VS0",
+          "duration": "12:00"
+        },
+        {
+          "id": "course-1-l3",
+          "title": "Lesson 3: React Topic",
+          "videoId": "Tn6-PIqc4UM",
+          "duration": "12:00"
+        }
+      ]
+    },
+    {
+      "id": "course-2",
+      "title": "HTML & CSS Basics",
+      "description": "HTML5 and responsive CSS techniques.",
+      "banner": "/sample/banner-default.jpg",
+      "lessons": [
+        {
+          "id": "course-2-l1",
+          "title": "Lesson 1: HTML & CSS Basics Topic",
+          "videoId": "UB1O30fR-EE",
+          "duration": "12:00"
+        },
+        {
+          "id": "course-2-l2",
+          "title": "Lesson 2: HTML & CSS Basics Topic",
+          "videoId": "yfoY53QXEnI",
+          "duration": "12:00"
+        },
+        {
+          "id": "course-2-l3",
+          "title": "Lesson 3: HTML & CSS Basics Topic",
+          "videoId": "MhkGQAoc7bc",
+          "duration": "12:00"
+        }
+      ]
+    },
+    {
+      "id": "course-3",
+      "title": "JavaScript Essentials",
+      "description": "Vanilla JavaScript fundamentals and DOM.",
+      "banner": "/sample/banner-default.jpg",
+      "lessons": [
+        {
+          "id": "course-3-l1",
+          "title": "Lesson 1: JavaScript Essentials Topic",
+          "videoId": "Z1Yd7upQsXY",
+          "duration": "12:00"
+        },
+        {
+          "id": "course-3-l2",
+          "title": "Lesson 2: JavaScript Essentials Topic",
+          "videoId": "sBws8MSXN7A",
+          "duration": "12:00"
+        },
+        {
+          "id": "course-3-l3",
+          "title": "Lesson 3: JavaScript Essentials Topic",
+          "videoId": "DLX62G4lc44",
+          "duration": "12:00"
+        }
+      ]
+    },
+    {
+      "id": "course-4",
+      "title": "Node.js Quickstart",
+      "description": "Build backend APIs with Node.js and Express.",
+      "banner": "/sample/banner-default.jpg",
+      "lessons": [
+        {
+          "id": "course-4-l1",
+          "title": "Lesson 1: Node.js Quickstart Topic",
+          "videoId": "jS4aFq5-91M",
+          "duration": "12:00"
+        },
+        {
+          "id": "course-4-l2",
+          "title": "Lesson 2: Node.js Quickstart Topic",
+          "videoId": "w3jLJU7DT5E",
+          "duration": "12:00"
+        },
+        {
+          "id": "course-4-l3",
+          "title": "Lesson 3: Node.js Quickstart Topic",
+          "videoId": "3JluqTojuME",
+          "duration": "12:00"
+        }
+      ]
+    },
+    {
+      "id": "course-5",
+      "title": "Tailwind CSS Workshop",
+      "description": "Utility-first styling with Tailwind CSS.",
+      "banner": "/sample/banner-default.jpg",
+      "lessons": [
+        {
+          "id": "course-5-l1",
+          "title": "Lesson 1: Tailwind CSS Workshop Topic",
+          "videoId": "Vbks9X1y2J8",
+          "duration": "12:00"
+        },
+        {
+          "id": "course-5-l2",
+          "title": "Lesson 2: Tailwind CSS Workshop Topic",
+          "videoId": "f0wQ4mz0jGM",
+          "duration": "12:00"
+        },
+        {
+          "id": "course-5-l3",
+          "title": "Lesson 3: Tailwind CSS Workshop Topic",
+          "videoId": "g4Hbz2jLxvQ",
+          "duration": "12:00"
+        }
+      ]
+    },
+    {
+      "id": "course-6",
+      "title": "Python for Beginners",
+      "description": "Intro to Python programming.",
+      "banner": "/sample/banner-default.jpg",
+      "lessons": [
+        {
+          "id": "course-6-l1",
+          "title": "Lesson 1: Python for Beginners Topic",
+          "videoId": "XKfgdkcIUxw",
+          "duration": "12:00"
+        },
+        {
+          "id": "course-6-l2",
+          "title": "Lesson 2: Python for Beginners Topic",
+          "videoId": "e-5obm1G_FY",
+          "duration": "12:00"
+        },
+        {
+          "id": "course-6-l3",
+          "title": "Lesson 3: Python for Beginners Topic",
+          "videoId": "zg6W3QkZgIc",
+          "duration": "12:00"
+        }
+      ]
+    },
+    {
+      "id": "course-7",
+      "title": "Data Structures Intro",
+      "description": "Core data structures in simple terms.",
+      "banner": "/sample/banner-default.jpg",
+      "lessons": [
+        {
+          "id": "course-7-l1",
+          "title": "Lesson 1: Data Structures Intro Topic",
+          "videoId": "ke0Z6k0T0o4",
+          "duration": "12:00"
+        },
+        {
+          "id": "course-7-l2",
+          "title": "Lesson 2: Data Structures Intro Topic",
+          "videoId": "QH2-TGUlwu4",
+          "duration": "12:00"
+        },
+        {
+          "id": "course-7-l3",
+          "title": "Lesson 3: Data Structures Intro Topic",
+          "videoId": "w7ejDZ8SWv8",
+          "duration": "12:00"
+        }
+      ]
+    },
+    {
+      "id": "course-8",
+      "title": "Django Overview",
+      "description": "Web development with Django framework.",
+      "banner": "/sample/banner-default.jpg",
+      "lessons": [
+        {
+          "id": "course-8-l1",
+          "title": "Lesson 1: Django Overview Topic",
+          "videoId": "Ke90Tje7VS0",
+          "duration": "12:00"
+        },
+        {
+          "id": "course-8-l2",
+          "title": "Lesson 2: Django Overview Topic",
+          "videoId": "Tn6-PIqc4UM",
+          "duration": "12:00"
+        },
+        {
+          "id": "course-8-l3",
+          "title": "Lesson 3: Django Overview Topic",
+          "videoId": "UB1O30fR-EE",
+          "duration": "12:00"
+        }
+      ]
+    },
+    {
+      "id": "course-9",
+      "title": "Next.js Practical",
+      "description": "Build fast React apps with Next.js.",
+      "banner": "/sample/banner-default.jpg",
+      "lessons": [
+        {
+          "id": "course-9-l1",
+          "title": "Lesson 1: Next.js Practical Topic",
+          "videoId": "yfoY53QXEnI",
+          "duration": "12:00"
+        },
+        {
+          "id": "course-9-l2",
+          "title": "Lesson 2: Next.js Practical Topic",
+          "videoId": "MhkGQAoc7bc",
+          "duration": "12:00"
+        },
+        {
+          "id": "course-9-l3",
+          "title": "Lesson 3: Next.js Practical Topic",
+          "videoId": "Z1Yd7upQsXY",
+          "duration": "12:00"
+        }
+      ]
+    },
+    {
+      "id": "course-10",
+      "title": "Design Systems",
+      "description": "Design tokens, components and systems.",
+      "banner": "/sample/banner-default.jpg",
+      "lessons": [
+        {
+          "id": "course-10-l1",
+          "title": "Lesson 1: Design Systems Topic",
+          "videoId": "sBws8MSXN7A",
+          "duration": "12:00"
+        },
+        {
+          "id": "course-10-l2",
+          "title": "Lesson 2: Design Systems Topic",
+          "videoId": "DLX62G4lc44",
+          "duration": "12:00"
+        },
+        {
+          "id": "course-10-l3",
+          "title": "Lesson 3: Design Systems Topic",
+          "videoId": "jS4aFq5-91M",
+          "duration": "12:00"
+        }
+      ]
+    },
+    {
+      "id": "course-11",
+      "title": "SQL Crash Course",
+      "description": "SQL queries, joins and database basics.",
+      "banner": "/sample/banner-default.jpg",
+      "lessons": [
+        {
+          "id": "course-11-l1",
+          "title": "Lesson 1: SQL Crash Course Topic",
+          "videoId": "w3jLJU7DT5E",
+          "duration": "12:00"
+        },
+        {
+          "id": "course-11-l2",
+          "title": "Lesson 2: SQL Crash Course Topic",
+          "videoId": "3JluqTojuME",
+          "duration": "12:00"
+        },
+        {
+          "id": "course-11-l3",
+          "title": "Lesson 3: SQL Crash Course Topic",
+          "videoId": "Vbks9X1y2J8",
+          "duration": "12:00"
+        }
+      ]
+    },
+    {
+      "id": "course-12",
+      "title": "Git & GitHub Basics",
+      "description": "Version control workflow using Git",
+      "banner": "/sample/banner-default.jpg",
+      "lessons": [
+        {
+          "id": "course-12-l1",
+          "title": "Lesson 1: Git & GitHub Basics Topic",
+          "videoId": "f0wQ4mz0jGM",
+          "duration": "12:00"
+        },
+        {
+          "id": "course-12-l2",
+          "title": "Lesson 2: Git & GitHub Basics Topic",
+          "videoId": "g4Hbz2jLxvQ",
+          "duration": "12:00"
+        },
+        {
+          "id": "course-12-l3",
+          "title": "Lesson 3: Git & GitHub Basics Topic",
+          "videoId": "XKfgdkcIUxw",
+          "duration": "12:00"
+        }
+      ]
+    }
+  ]
+}
